@@ -1,15 +1,16 @@
-id: opecha:P008045
+id: P008045
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG3958
   title: མདོ་སྡེ་མེ་ཏོག་སིལ་མ།
-  volume:
+  author: ''
+  volumes:
     a8e47b7ea317438eb048c3ddafa4c5b8:
       image_group_id: I1KG4016
       title: Volume 1 of mdo sde me tog sil ma
       volume_number: 1
       total_pages: 414
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: མདོ་སྡེ་མེ་ཏོག་སིལ་མ།
   author: ''
